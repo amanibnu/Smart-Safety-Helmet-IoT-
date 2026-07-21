@@ -83,9 +83,13 @@ images/
 ## 👨‍💻 Team
 
 Muhammed Aman Ibnu Jalal
+
 Joel Siby
+
 Naveen Mohan
+
 Nakul Mohan
+
 Vimal kumar
 
 Department of Computer Science Engineering
